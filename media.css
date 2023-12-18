@@ -1,0 +1,8 @@
+@media (max-width:450px) {
+   .manu .container {
+        flex-direction: column;
+        padding-top: 50px;
+        
+    }
+    
+}
